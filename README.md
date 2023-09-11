@@ -1,6 +1,6 @@
 </br>
 <p align="center" >
-  <img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" width="600" height="300" />
+  <img src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif" width="500" height="300" />
 </p>
 
 </br>
@@ -299,3 +299,9 @@
 --->
 
 <!-------------------------------------------------------------------- Stats section------------------------------------------------------------------------------------------------------------->
+<p align="center" >
+  <img src="https://i.pinimg.com/originals/77/a0/11/77a0113e10aeafeffdc4e2aa8f0b29bb.gif" width="500" height="300" />
+</p>
+</br>
+</br>
+</br>
