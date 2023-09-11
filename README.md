@@ -1,22 +1,30 @@
 <h1 align="center">
   Hi 👋, I'm Manuel Parra
 </h1>
+
+<img src="https://i.gifer.com/33HI.gif" style="width: 100px; height: 100px;">
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hvnt3rk3ys&label=Profile%20views&color=0e75b6&style=flat"
   alt="hvnt3rk3ys" />
 </p>
-<p align="center">
+
+<!-------------------------------------------------------------------- Stats section------------------------------------------------------------------------------------------------------------->
+<!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hvnt3rk3ys"
     alt="hvnt3rk3ys" />
   </a>
 </p>
-<p align="center">
+-->
+<!--<p align="center">
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
     alt="" />
   </a>
 </p>
+-->
 <ul align="center">
   <li>
     🔭 I’m currently working on [project name](project link)
@@ -34,6 +42,7 @@
     👨‍💻 Know about my experiences [cv link](cv link)
   </li>
 </ul>
+</br>
 <h3 align="center">
   Connect with me:
 </h3>
@@ -55,9 +64,14 @@
     alt="hvnt3rk3ys" height="30" width="40" />
   </a>
 </p>
+</br>
+</br>
+</br>
 <h1 align="center">
   I've worked with:
 </h1>
+</br>
+</br>
 <!-- Lenguajes de Programación -->
 <h3 align="center">
   Programming Languages:
@@ -282,11 +296,16 @@
       alt="babel" width="40" height="40" />
     </a>
   </p>
-  //STATS WIDGETS
+</br>
+</br>
+</br>
+<!-- Stats section--->
+
+<!--
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvnt3rk3ys&show_icons=true&locale=en&layout=compact" alt="hvnt3rk3ys" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvnt3rk3ys&show_icons=true&locale=en" alt="hvnt3rk3ys" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvnt3rk3ys&" alt="hvnt3rk3ys" /></p>
-
+--->
