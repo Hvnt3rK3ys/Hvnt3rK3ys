@@ -1,15 +1,14 @@
+</br>
+</br>
 <h1 align="center">
   Hi 👋, I'm Manuel Parra
 </h1>
-
-<img src="https://i.gifer.com/33HI.gif" style="width: 100px; height: 100px;">
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hvnt3rk3ys&label=Profile%20views&color=0e75b6&style=flat"
   alt="hvnt3rk3ys" />
 </p>
-
+</br>
 <!-------------------------------------------------------------------- Stats section------------------------------------------------------------------------------------------------------------->
 <!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -25,23 +24,12 @@
   </a>
 </p>
 -->
-<ul align="center">
-  <li>
-    🔭 I’m currently working on [project name](project link)
-  </li>
-  <li>
-    🌱 I’m currently learning **Frameworks, techs**
-  </li>
-  <li>
-    👯 I’m looking to collaborate on [project name](project link)
-  </li>
-  <li>
-    🤝 I’m looking for help with [project name](project link)
-  </li>
-  <li>
-    👨‍💻 Know about my experiences [cv link](cv link)
-  </li>
-</ul>
+<!-------------------------------------------------------------------- Stats section------------------------------------------------------------------------------------------------------------->
+<p align="center">
+  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs </br>
+  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs </br>
+</p>
+
 </br>
 <h3 align="center">
   Connect with me:
@@ -49,10 +37,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-parra/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="manuel parra" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/manuel parra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
     alt="manuel parra" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/hvnterkeys" target="blank">
@@ -67,12 +51,13 @@
 </br>
 </br>
 </br>
+<!-------------------------------------------------------------------- STACKSSS section------------------------------------------------------------------------------------------------------------->
 <h1 align="center">
   I've worked with:
 </h1>
 </br>
 </br>
-<!-- Lenguajes de Programación -->
+<!---------------------------------------------------------------------------------------------------------- Prog LANG ----------------------------------------------------------------------------->
 <h3 align="center">
   Programming Languages:
 </h3>
@@ -114,9 +99,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     alt="java" width="40" height="40" />
   </a>
-  <!-- Agrega otros lenguajes aquí -->
+
 </p>
-<!-- Desarrollo Web -->
+<!------------------------------------------------------------------------------------------------- Web Dev ------------------------------------------------------------------------------------------>
 <h3 align="center">
   Web Dev:
 </h3>
@@ -133,9 +118,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
     alt="d3js" width="40" height="40" />
   </a>
-  <!-- Agrega otras tecnologías de desarrollo web aquí -->
 </p>
-<!-- Bases de Datos -->
+<!--------------------------------------------------------------------------------------------- Data Base---------------------------------------------------------------------------------------->
 <h3 align="center">
   Data Bases:
 </h3>
@@ -172,9 +156,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql" width="40" height="40" />
   </a>
-  <!-- Agrega otras bases de datos aquí -->
 </p>
-<!-- Herramientas de Desarrollo -->
+<!---------------------------------------------------------------------------------------------- Dev Tools --------------------------------------------------------------------------------------->
 <h3 align="center">
   Dev Tools:
 </h3>
@@ -232,7 +215,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
     alt="azure" width="40" height="40" />
   </a>
-  <!-- Frameworks -->
+<!------------------------------------------------------------------------------------------------ Frameworks ---------------------------------------------------------------------------------->
   <h3 align="center">
     Frameworks:
   </h3>
@@ -270,7 +253,7 @@
       alt="react" width="40" height="40" />
     </a>
   </p>
-  <!-- Libraries -->
+<!--------------------------------------------------------------------------------------------------Libraries ------------------------------------------------------------------------------>
   <h3 align="center">
     Libraries:
   </h3>
@@ -299,7 +282,7 @@
 </br>
 </br>
 </br>
-<!-- Stats section--->
+<!-------------------------------------------------------------------- Stats section------------------------------------------------------------------------------------------------------------->
 
 <!--
 
@@ -309,3 +292,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvnt3rk3ys&" alt="hvnt3rk3ys" /></p>
 --->
+
+<!-------------------------------------------------------------------- Stats section------------------------------------------------------------------------------------------------------------->
