@@ -8,6 +8,10 @@
 <h1 align="center">
   Hi 👋, I'm Manuel Parra
 </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=40&pause=1000&color=71B12C&center=true&vCenter=true&width=435&lines=Mathematician;Partner;I.T+Lover;Dreamer;Developer" alt="Typing SVG" /></a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hvnt3rk3ys&label=Profile%20views&color=0e75b6&style=flat"
@@ -30,10 +34,20 @@
 </p>
 -->
 <!-------------------------------------------------------------------- Stats section------------------------------------------------------------------------------------------------------------->
-<p align="center">
+<div align="center">
+  <details open> 
+  <summary><h2>About me</h2></summary>
+  <p align="center">
   ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs </br>
   ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs  ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dah ahsdkjhajksdh khaskdh kak jsdkjah sk ajhd jkash dahs </br>
 </p>
+</details>
+</div>
+
+
+
+
+
 
 </br>
 <h3 align="center">
