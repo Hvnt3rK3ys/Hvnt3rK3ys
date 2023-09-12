@@ -19,7 +19,7 @@
 </p>
 --->
 <div align="center">
-    <a href="https://www.google.com/" target="_blank">
+    <a href="https://www.google.com/" target="_blank" rel="noopener">
       <img src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" width="200" height="130" />
     <h6>My Portfolio</h6>
     </a>
