@@ -49,19 +49,21 @@
   <p align="center">
 🚀 About Me:
 
-I believe that knowledge fuels progress, and I'm always hungry to learn and evolve. My commitment lies in leveraging my expertise to assist others and contribute to meaningful change.
+▪  My commitment lies in using my expertise to assist others and contribute to meaningful change. I firmly believe that knowledge propels the progress of our species.
 
-🔢 Mathematics & Data Proficiency:
+🔢 Mathematics and Data Competence:
 
-With a solid foundation in mathematics and computer science, I've cultivated a profound proficiency in various programming languages and software tools. As an experienced data scientist, I possess a deep understanding of data analysis and machine learning techniques.
+▪  With a solid foundation in mathematics and computer science, I have cultivated a profound competence in various programming languages and software tools. As an experienced data scientist, I possess a deep understanding of data analysis techniques and machine learning.
 
-💡 Tech-Driven Problem Solver:
+💡 Technology-Driven Problem Solver:
 
-My excitement stems from harnessing technology to tackle some of the world's most pressing challenges. I'm dedicated to making a significant difference by leveraging my skills and knowledge.
+▪ My enthusiasm stems from harnessing technology to address some of the world's most pressing challenges. I am dedicated to making a significant difference by leveraging my skills and knowledge.
 
 🌍 Making a Difference:
 
-I'm constantly seeking fresh challenges and opportunities to make a positive contribution. My aspiration is to connect with fellow professionals who share the same zeal for using technology as a force for good.
+▪ I am constantly seeking new challenges and opportunities to make a positive contribution. My aspiration is to connect with fellow professionals who share the same passion for using technology as a force for good.
+
+
 </p>
 </details>
 </div>
