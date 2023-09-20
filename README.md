@@ -9,7 +9,7 @@
   Hi 👋, I'm Manuel Parra
 </h1>
 <p align="center">
-  <a href="https://m1n3folio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=40&pause=1000&color=71B12C&center=true&vCenter=true&width=435&lines=Mathematician;Partner;I.T+Lover;Dreamer;Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=40&pause=1000&color=71B12C&center=true&vCenter=true&width=435&lines=Mathematician;Partner;I.T+Lover;Dreamer;Developer" alt="Typing SVG" /></a>
 </p>
 </br>
 
@@ -19,7 +19,7 @@
 </p>
 --->
 <div align="center">
-    <a href="https://www.google.com/" target="_blank" rel="noopener">
+    <a href="https://m1n3folio.vercel.app" target="_blank" rel="noopener">
       <img src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" width="200" height="130" />
     <h6>My Portfolio</h6>
     </a>
