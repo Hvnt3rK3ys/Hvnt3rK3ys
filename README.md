@@ -9,7 +9,7 @@
   Hi 👋, I'm Manuel Parra
 </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=40&pause=1000&color=71B12C&center=true&vCenter=true&width=435&lines=Mathematician;Partner;I.T+Lover;Dreamer;Developer" alt="Typing SVG" /></a>
+  <a href="https://m1n3folio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=900&size=40&pause=1000&color=71B12C&center=true&vCenter=true&width=435&lines=Mathematician;Partner;I.T+Lover;Dreamer;Developer" alt="Typing SVG" /></a>
 </p>
 </br>
 
